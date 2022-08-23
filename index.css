@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 200px;
+    color: #F94F6D;
+    width: 117px;
+    margin: 20px;
+    height: 120px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    
+}
